@@ -1,6 +1,6 @@
-# C++ Matching Engine
+# C++ Project
 
-A C++20 limit order book and matching engine.
+A C++20 project.
 
 ## Build
 
